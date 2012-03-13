@@ -494,19 +494,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>¢ Class</string>
-			<key>scope</key>
-			<string>meta.class -meta.class.instance -declaration.class -meta.definition.class -declaration.module meta.class.actionscript</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#D2878933</string>
-				<key>foreground</key>
-				<string>#D28789</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>¢ Library class/type</string>
 			<key>scope</key>
 			<string>support.type, support.class</string>
@@ -884,7 +871,7 @@ meta.brace.round</string>
 			<key>name</key>
 			<string>✘ Tag Inline</string>
 			<key>scope</key>
-			<string>meta.tag.inline</string>
+			<string>meta.tag.inline, meta.tag.block.*.fbt, meta.tag.block.*.ui.tx, meta.tag.block.*.ui.icon-text</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -919,6 +906,19 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>✘ Tag Other</string>
+			<key>scope</key>
+			<string>meta.tag.block.*.fb</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#D58E9233</string>
+				<key>foreground</key>
+				<string>#AB1D26</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>✘ Tag Form</string>
 			<key>scope</key>
 			<string>meta.tag.form, meta.tag.block.form, meta.tag.inline.form</string>
@@ -928,6 +928,32 @@ meta.brace.round</string>
 				<string>#9FC6E533</string>
 				<key>foreground</key>
 				<string>#408ECC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag UI</string>
+			<key>scope</key>
+			<string>meta.tag.block.*.label, meta.tag.block.*.ui.form</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9FC6E533</string>
+				<key>foreground</key>
+				<string>#408ECC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Input</string>
+			<key>scope</key>
+			<string>meta.tag.block.*.input, meta.tag.block.*.ui.button, meta.tag.block.*.ui.hidden-input, meta.tag.block.*.ui.mentions-input, meta.tag.block.*.ui.textarea</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#BC9EE333</string>
+				<key>foreground</key>
+				<string>#CF4DD9</string>
 			</dict>
 		</dict>
 		<dict>
