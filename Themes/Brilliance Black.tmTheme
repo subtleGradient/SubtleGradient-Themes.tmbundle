@@ -17,6 +17,8 @@
 				<string>#0D0D0DFA</string>
 				<key>caret</key>
 				<string>#3333FF</string>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#EEEEEE</string>
 				<key>invisibles</key>
@@ -36,8 +38,6 @@
 			<dict>
 				<key>background</key>
 				<string>#FFFFFF</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -425,17 +425,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>√ Variable Punctuation</string>
-			<key>scope</key>
-			<string>punctuation.definition -meta.tag, punctuation.separator.variable</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#00000080</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>—————————————————</string>
 			<key>settings</key>
 			<dict/>
@@ -681,8 +670,6 @@ meta.brace.round</string>
 			<dict>
 				<key>disabled-foreground</key>
 				<string>#BC80FF</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1075,8 +1062,6 @@ meta.brace.round</string>
 			<string>markup.bold</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#95D4FF80</string>
 			</dict>
@@ -1243,8 +1228,6 @@ meta.brace.round</string>
 			<string>text.html.markdown markup.heading</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -1363,8 +1346,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<string>entity.name.tag.wildcard, entity.other.attribute-name.universal</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#FF7900</string>
 			</dict>
@@ -1387,8 +1368,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<string>meta.scope.property-list</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#333333</string>
 			</dict>
@@ -1933,8 +1912,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<dict>
 				<key>background</key>
 				<string>#FF0007</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#330004</string>
 			</dict>
@@ -2094,8 +2071,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<dict>
 				<key>background</key>
 				<string>#FFFFFF03</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#7F7F7F</string>
 			</dict>
@@ -2129,8 +2104,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<string>string.quoted.single.brace, string.quoted.double.brace</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#803D00</string>
 			</dict>
@@ -2266,8 +2239,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<string>punctuation.separator.parameters</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
@@ -2294,8 +2265,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<string>meta.brace.erb, source.ruby.embedded.source.brace, punctuation.section.dictionary, punctuation.terminator.dictionary, punctuation.separator.object, punctuation.separator.statement, punctuation.separator.key-value.css</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#666666</string>
 			</dict>
@@ -2307,8 +2276,6 @@ source.css meta.scope.property-list meta.property-value punctuation.separator.ar
 			<string>punctuation.section.scope.curly, punctuation.section.scope</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#999999</string>
 			</dict>
@@ -2326,8 +2293,6 @@ source.ocaml punctuation.separator.match-definition
 			<dict>
 				<key>disabled-foreground</key>
 				<string>#0C823B</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2350,8 +2315,6 @@ source.ocaml punctuation.separator.match-definition
 			<dict>
 				<key>background</key>
 				<string>#803D001A</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#7F5E40</string>
 			</dict>

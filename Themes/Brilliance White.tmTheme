@@ -89,7 +89,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D3C84433</string>
+				<string>#35321133</string>
 			</dict>
 		</dict>
 		<dict>
@@ -102,7 +102,7 @@
 				<key>background</key>
 				<string>#C1DF9A33</string>
 				<key>foreground</key>
-				<string>#D3C844</string>
+				<string>#353211</string>
 			</dict>
 		</dict>
 		<dict>
@@ -139,7 +139,7 @@
 				<key>background</key>
 				<string>#C1DF9A33</string>
 				<key>foreground</key>
-				<string>#D3C844</string>
+				<string>#353211</string>
 			</dict>
 		</dict>
 		<dict>
@@ -869,6 +869,147 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>✘ Tag Block Inner</string>
+			<key>scope</key>
+			<string>meta.tag.block meta.block.inner</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Tag Block Block</string>
+			<key>scope</key>
+			<string>meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.scope.tag.block meta.tag.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B3B3B333</string>
+				<key>foreground</key>
+				<string>#B3B3B3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>✘ Tag Inline</string>
 			<key>scope</key>
 			<string>meta.tag.inline, meta.tag.block.*.fbt, meta.tag.block.*.ui.tx, meta.tag.block.*.ui.icon-text</string>
@@ -1073,7 +1214,7 @@ meta.brace.round</string>
 				<key>background</key>
 				<string>#CCCCCC33</string>
 				<key>foreground</key>
-				<string>#D3C844</string>
+				<string>#353211</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1246,6 +1387,17 @@ meta.brace.round</string>
 				<string>#000000</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown</string>
+			<key>scope</key>
+			<string>text.html.markdown punctuation.whitespace.embedded.trailing</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#33333333</string>
 			</dict>
 		</dict>
 		<dict>
