@@ -856,6 +856,17 @@ meta.brace.round</string>
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>✘ Tag Block Newline</string>
+			<key>scope</key>
+			<string>meta.tag.block.begin punctuation.whitespace.embedded.newline, meta.tag.block.begin punctuation.whitespace.embedded.leading</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>✘ Tag Block</string>
 			<key>scope</key>
 			<string>meta.tag.block, meta.tag.xml, meta.tag.key</string>
