@@ -8,6 +8,8 @@
 	<string>Thomas Aylott ㊷ subtleGradient.com</string>
 	<key>name</key>
 	<string>Brilliance White</string>
+	<key>semanticClass</key>
+	<string>theme.light.brilliance-white</string>
 	<key>settings</key>
 	<array>
 		<dict>
