@@ -8,6 +8,8 @@
 	<string>Thomas Aylott ㊷ subtleGradient.com</string>
 	<key>name</key>
 	<string>Brilliance White</string>
+	<key>semanticClass</key>
+	<string>theme.light.brilliance-white</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -821,7 +823,7 @@ meta.brace.round</string>
 			<key>name</key>
 			<string>✘ Tag Doctype</string>
 			<key>scope</key>
-			<string>meta.doctype, meta.tag.sgml-declaration.doctype, meta.tag.sgml.doctype</string>
+			<string>meta.tag.metadata.doctype</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -1047,7 +1049,7 @@ meta.brace.round</string>
 			<key>name</key>
 			<string>✘ Tag Other</string>
 			<key>scope</key>
-			<string>meta.tag.other, entity.name.tag.style, entity.name.tag.script, meta.tag.block.script, source.js.embedded punctuation.definition.tag.html, source.css.embedded punctuation.definition.tag.html</string>
+			<string>meta.tag.other, meta.tag.metadata.style entity.name.tag, meta.tag.metadata.script entity.name.tag, meta.tag.metadata.script, source.js.embedded punctuation.definition.tag.html, source.css.embedded punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -1073,7 +1075,7 @@ meta.brace.round</string>
 			<key>name</key>
 			<string>✘ Tag Form</string>
 			<key>scope</key>
-			<string>meta.tag.form, meta.tag.block.form, meta.tag.inline.form</string>
+			<string>meta.tag.structure.form, meta.tag.block.form, meta.tag.inline.form</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -1112,7 +1114,7 @@ meta.brace.round</string>
 			<key>name</key>
 			<string>✘ Tag Input</string>
 			<key>scope</key>
-			<string>meta.tag.inline.any.void, meta.tag.form.any.void</string>
+			<string>meta.tag.*.*.void, meta.tag.*.*.*.void</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
